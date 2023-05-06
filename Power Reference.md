@@ -1,3 +1,5 @@
+#savage_worlds
+#swade
 
 # Savage Pathfinder Power Reference
 
