@@ -1,0 +1,94 @@
+
+## Treasure Given
+
+| Item                      | Value | Quantity | Notes                |
+|:--------------------------|:-----:|:--------:|:--------------------:|
+| Potion Darksight (minor)  | 50    | 4        |                      |
+| Ring of feather fall      | 2200  | 1        |                      |
+| Leather Jacket (Glamered) | 900   | 1        |                      |
+| Sleep Arrow               | 70    | 10       |                      |
+| Gold                      | 1     | 400      |                      |
+| Silver                    | 1/10  | 1000     |                      |
+| Copper                    | 1/100 | 2500     |                      |
+
+# 2023-05-27
+
+Arrived in Jol, found out that you were wanted for plots to assassinate the ruler.   Updated the Pathfinder Society on status of wendigo (When De Go), got badge of membership.    [[Carenza Calendula]] started combing the society archives for information on Thassilonian runes.  [[Amaris]] took up overwatch on the building roof.   [[Drin Gendleson]] helping [[Carenza Calendula]] with research.  [[Ri'Aziir]] is pacing in the library.
+
+## Status Updates
+### [[Amaris]] 
+- Chronic Disease
+	- ** Effect** - At the start of every game session, the character makes a Vigor roll. Failure means he’s Exhausted from spasms, coughing fits, or similar issues for that session. A Critical Failure means he will expire before the end of the session. The GM is encouraged to let heroes go out in a blaze of glory if possible. Success means the victim is Fatigued for the game session, and a raise means he gets a second wind and suffers no ill effects.
+	- **Recovery** - Diseases can be cured by the healing power with the Neutralize Poison or Disease modifier, or with specific medications — whether or not those are available depends on the game (GM’s call). The symptoms can often be treated by common medicines, however. With a successful Healing roll, a physician, priest, herbalist, etc., can prescribe or create a treatment. She may attempt to do so once per day
+
+### [[Carenza Calendula]]
+
+- Cast Sending (long):
+	- **Message sent to White Estrid** - Chasing cult. Alleged harbor master got us passage on ship. Turned out to be raid ship. We are now framed as raid organizers and assassins.
+	- **Message sent to her mother** - We are well. Exploring Thassilonian ruins under Jol. Have been framed as assassins, but should not stick. My love to you and father.
+
+### Rune Research
+(Academics Role - Success)
+Rune research revealed mention of an evil demonologist in what is now the Land of the Linnorm Kings.  He had developed a ritual using a number of runes to open a bridge between The Abyss and The Material Plane.  
+
+(Academics Role - Raise)
+Before he could perform the ritual, a group of heroes killed him.  The runes appeared indestructible, so it was agreed they would split up and hide the runes.
+
+(Academics Role - Raisex2+)
+Thassilonian scholars found a one of the Runes and brought it back to their city that lies beneath Jol.  The Pathfinder Society has been searching for it in Jol, hoping to relocate it to a more secure location, or hide it away again.
+
+### Messages
+
+White Estrid - Thank you for tracking the Cult, should you thwart them, you will be rewarded with lands.   The Harbor Master was found murdered with obvious attempts to frame you for it.   I presume the person you met was the culprit.   I can send a message to Opir regarding the raid and put in a good word.   I am unable to address the assassination charge, and I fear Opir's mentality may not let him drop it.
+
+Parents - Be careful of the ruins, I hear that Jol is unsettled and cave ins abound.   Seek out Sujara, a family friend in Halgrim.  She operates the Whimiscal Woods crafting shop.   She may be able to help you, or put you in contact with someone that can.   Our love to you too.
+
+## Ruins
+
+The large arena has collapsed into the ruins under Jol.   While much is still standing, the floor of the arena slopes down into the ruins.   The place is roped off and guards patrol around it, keeping would be looters out.   At the base of the sloping arena floor there are many doorways leading into the ruins.   Many are collapsed, some are marked with placards noting the the status of exploration.   A few are boarded up with various warning signs such as beware the Gelatinous Cube.   Others are just open without placards.   One looks like it was collapsed and has been recently cleared and open.
+
+### First Level
+
+1. **Bath** - The room is large, nearly 40' x 50'.   A single doorway is in the center of each wall.   A large shallow pool filled with murky, slimy water is in the center of the room.  The walls are lined with moss and slime from above ground leakage.
+    
+    The north doorway is a stairwell descending steeply with worn stone steps making all the more treacherous from the slime that has run down them.
+    
+    The east doorway leads to room 2
+    
+    The south doorway is jammed, upon opening will reveal a collapsed hall.
+	- ![[Black Pudding]]
+
+2. Outside of some broken furniture the room is empty.  The ceiling is cracked and dust occasionally falls with some creaking noises.
+3. Empty room with a door centered on each wall.   West door opens to collapsed hallway., South door goes to room 2, and north door is locked and trapped.
+	1. Mechanical Trap
+	   **Notice** - Yes, -2
+	   **Thievery** - Yes, -2
+	   **Effects** - Poison needle, make vigor roll (-2), Failure is stunned and takes a wound, 2 with critical failure.   Perishes in 2d6 rounds
+4. Locker Room - room has a number of rotted benches with numerous cubical shelving.   
+5. Old LIbrary - many rotted old books, all ruined.  what little you can make of the titles, they were treatises on magic.  
+6. Temple - The door into this is stuck, requires a STR -4 check to force open.   The floor is sagging, if any weight is put on it, the floor will collapse into the room below, talk 2d6 falling damage.
+
+### Lower level
+
+Stars descend very deep (about 100' of stairs), 3 Rounds (100' each), must collect 12 tokens or fall remaining stairs.  Falling damage is 1/2 the distances fallenn.   
+
+Bottom of stairs is a hallway of unbarred cells, A skeleton hangs in each cell.   four of the cells house:
+- ![[Demonic Soldier]]
+1. Room 1 - Laboratory, rotted tables and broken glass
+   - ![[Slime]]
+Second hallway is more cells, these are empty.  
+
+2. Room 2 storage
+   Secret door, -4 to notice, trapped
+	Collect six Task Tokens in four rounds or set the trap off
+	Mechanical Trap
+	   **Thievery** - Yes, -2
+	   **Effects** - Poison needle, make vigor roll (-2), Failure is stunned and takes a wound, 2 with critical failure.   Perishes in 2d6 rounds
+1. Secret Room - This room has been recently pillaged based off the broken chest in the center of the room.  A couple of human bodies lie on the floor in what looks like a rushed sacrifice.   On one wall is scrawled in blood, "Yet again, you are too late.   Follow me to the North, I need a laugh"
+   - Treasure - See Magic items
+
+
+## Pronunciation Guide
+
+- **Thassilon** (pronounced THAH-sih-lon)
+

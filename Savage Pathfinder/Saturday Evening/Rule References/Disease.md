@@ -1,24 +1,3 @@
----
-Title: 2023-05-06 
-Date: 2023-05-06 
-Time: 17:11
-publish: false
-tags:
-  - savage_worlds
-	  - SWADE
-		  - savage_pathfinder
----
-# Jol
-
-## Facts Known
-
-**Ruler**: Opir Eightfingers (Ulfen barbarian)
-**Languages:** Dwarf, Giant, Skald
-**Religion:**  Gorum, Torag, Urxhel, giant dieties
-**Resources:** Copper, furs, leather goods, lumber mercenaries
-
-# DISEASE 
-
 Diseases cover a wide range of maladies, from long-term debilitating illnesses to those which might cause immediate spasms or death. 
 
 Diseases can be contracted through various vectors, such as an airborne source, ingestion, or the touch or bite of a creature that causes a Wound or Shaken result. In any of these situations, the victim must make an immediate Vigor roll to avoid infection. 
@@ -35,10 +14,3 @@ To handle such a diverse range of diseases, we’ve broken them down into three 
 | Debilitating | Flus, viruses, stomach bugs and the like have various specific symptoms but generally result in the character being Fatigued for 2d6 days.|
 | Lethal | Fast-acting diseases might be found in the darkest depths of forgotten dungeons or in specific locations on Golarion. Upon contracting the disease, the hero is Fatigued. At the start of each turn thereafter, he must make a Vigor roll or suffer a Wound! (Some diseases may call for a Vigor roll more slowly, such as once per hour or once per day.) A successful Healing roll stops the effects only if the proper medicine is on hand to stop the disease|
 
-
-Mike's Character - Research thassilonian runes under Jol
-John's Character - Overwathch (Diseased)
-Thief - Helping Mike's char
-Cat - Pacing in library
-
-Wanted for plotting to Assasinate the King
