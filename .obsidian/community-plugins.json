@@ -1,7 +1,8 @@
 [
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-git",
   "rpg-manager",
   "theme-picker",
-  "unicode-search"
+  "unicode-search",
+  "obsidian-dice-roller",
+  "obsidian-git"
 ]
