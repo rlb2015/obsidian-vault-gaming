@@ -15,3 +15,4 @@ Location: Jol, Eastgate District
 - Ring of feather fall, 2200gp
 - Great Axe of Mighty Cleaving (Str+d10, AP3, Parry -1, Two Handed), 10000gp  
 	  Mighty Cleaving (2): The user gains the Sweep Edge
+Renn
