@@ -3,9 +3,9 @@ Location: Jol, Eastgate District
 
 ## Potions
 
-* Minor healing with Greater, 650 gp 
-* Minor speed, 200 gp 
-* Minor protection, 100 gp 
+X* Minor healing with Greater, 650 gp 
+X* Minor speed, 200 gp 
+X* Minor protection, 100 gp 
 * Minor relief with Restoration, 200 gp 
 * Minor darksight, 550 gp
 * 6 Minor Healing Potions, 75gp Each
