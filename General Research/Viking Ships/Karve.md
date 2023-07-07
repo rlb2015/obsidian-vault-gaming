@@ -1,0 +1,3 @@
+[Viking ships - Wikipedia](https://en.wikipedia.org/wiki/Viking_ships)
+
+The Karve was a small type of Viking longship, with a broad hull somewhat similar to the knarr. They were used for both war and ordinary transport, carrying people, cargo or livestock. Because they were able to navigate in very shallow water, they were also used for coasting. Karves typically had broad beams of approximately 17 feet (5.2 m).
